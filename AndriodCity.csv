@@ -1,0 +1,128 @@
+user_id,User hobby,Places,Genres
+1,Animal Lover,Rana Hunting and Luxury Resort Lahore,Animal Lover|Gardening|Fitness
+2,Music,The Guitar Center,Shopping|Music
+3,Music,True Brew Records,Music
+4,Music,Sound of Music,Shopping|Music
+5,Music,FEELING JAZZ - YAMAHA MUSIC,Shopping|Music
+11,Shopping,Liberty Market,Shopping
+12,Literature,Anees Book Corner,Shopping|Literature
+13,Shopping,Mall of Lahore,Shopping
+14,Shopping,Auriga Market,Shopping
+15,Shopping,Gulberg Galleria,Shopping
+16,Sports,Gaddafi Stadium,Sports
+17,Sports,Arena56,Sports
+18,Sports,Lahore Marina Boat Club,Sports
+19,Sports,2F2F Formula Karting,Sports|Trvelling
+20,Photography ,Lahore fort,Photography|History Lover| Being Spiritual ( Religious)
+21,Being Spiritual ( Religious),Wazir khan Masjid,Being Spiritual ( Religious)| History Lover
+22,Shopping,Grand Square Mall,Shopping
+23,Shopping,Panorama Shopping Centre,Shopping
+24,Shopping,Amanah Mall,Shopping
+25,Shopping,Xinhua Mall,Shopping|Acting & Movies
+27,Art & Calligraphy,Ejaz Art Gallery,Art & Calligraphy
+28,Being Spiritual ( Religious),Jamia masjid Alqaadsia,Being Spiritual ( Religious)
+29,Literature,Liberty Books,Literature|Shopping
+30,Art & Calligraphy,AL-Hammra Art Centre,Art & Calligraphy|Literature|Acting & Movies
+31,Watching kdramas,Home,Fitness| Animal Lover|Being Spiritual ( Religious)|Music|Literature|Gardening|Music
+32,Being Spiritual ( Religious),Badshahi Masjid,Being Spiritual ( Religious)| History Lover
+33,Sports,Oasis Golf and Aqua Resort,Sports
+35,Fitness,Mavi Masjid,Being Spiritual ( Religious)| History Lover
+36,Travelling,F1 tracks,Sports
+38,Shopping,Packages Mall,Shopping
+39,Gaming and hanging out with buddies,Chaye Qawali,Trvelling
+40,Music,Home,Fitness| Animal Lover|Being Spiritual ( Religious)|Music|Literature|Gardening|Music
+41,Sports,Jallo Forest and Wildlife,Animal Lover|Gardening
+43,Sports,Changa Manga Forest and Wildlife Park,Animal Lover|Gardening
+44,Sports,Lahore Safari Park,Animal Lover|Gardening
+45,Sports,Lahore Zoo,Animal Lover|Gardening
+46,Literature,Readings,Literature|Shopping
+49,Literature,The Last Word,Literature
+50,Literature,British Council Lahore Library,Literature
+51,Literature,Government Model Town Library,Literature
+52,Literature,Gymkhana library & Reading Room,Art & Calligraphy
+53,Art & Calligraphy,Passion Art Gallery,Art & Calligraphy
+54,Art & Calligraphy,Nairang Art Gallery,Art & Calligraphy
+55,Art & Calligraphy,Naqsh Art Gallery,Art & Calligraphy
+57,Art & Calligraphy,Prime Art Gallery,Art & Calligraphy
+58,Art & Calligraphy,Zulfi’s Art Gallery,Art & Calligraphy
+59,Art & Calligraphy,Ocean Art Gallery,Art & Calligraphy
+60,Art & Calligraphy,Hamail Art Gallery,Art & Calligraphy
+62,Shopping,Emporium Mall,Shopping
+63,Being Spiritual ( Religious),Grand Jamia Masjid,Being Spiritual ( Religious)| History Lover
+64,Music,Musically - Rooftop Restaurant,Music
+66,Gardening,Jilani Park,Gardening 
+73,Sports,Quaid-e-Azam International Cycling Velodrome,Sports
+74,Sports,LDA Sports Complex,Sports
+75,Sports,Defence Raya Golf and Country Club,Sports
+76,Fitness,Route to Pilates,Fitness
+80,Shopping,Fortress,Shopping|Sports
+81,Shopping,Anarkali,Shopping
+83,Shopping,Fortress Square,Shopping
+85,Being Spiritual ( Religious),Shrine of Hazrat Data Ganj Bakhsh,Being Spiritual ( Religious)| History Lover
+95,Literature,PU Library,Literature|Shopping
+97,Sports,2F2F Formula Karting,Sports
+99,History Lover,Army Museum,History Lover
+100,History Lover,Lahore Meusem,History Lover
+105,Acting & Movies,Cinestar,Shopping|Acting & Movies
+106,Acting & Movies,Cinepax,Shopping|Acting & Movies
+107,Acting & Movies,Universal Cinema,Shopping|Acting & Movies
+108,Acting & Movies,Alhamra Arts Council,Art & Calligraphy
+109,Acting & Movies,Alhamra Open Air Theater,Acting & Movies
+113,Fitness,Shapes DHA,Sports|Fitness
+114,Sports,National Hockey Stadium,Sports
+127,Literature,Quaid e Azam Library,Literature
+130,History Lover,Greater iqbal park,Gardening 
+131,History Lover,Badshahi mosque,Being Spiritual ( Religious)| History Lover
+134,Gardening,Jam-e-Shirin Park,Gardening 
+135,Gardening,Model Town Park,Gardening 
+136,Gardening,National Bank Park,Gardening 
+137,Gardening,Shahdara Bagh,Gardening 
+138,Gardening,Jallo Park,Gardening 
+139,Gardening,Shalimar Garden,Gardening 
+152,Being Spiritual ( Religious),Dai Anqa Masjid,Being Spiritual ( Religious)| History Lover
+153,Being Spiritual ( Religious),Begum Shahi Masjid,Being Spiritual ( Religious)| History Lover
+154,Islamic research,Quran Classes,Being Spiritual ( Religious)
+174,Gardening,Mochi Bagh.,Gardening 
+178,History Lover,National History Museum,History Lover
+181,Sports,Arena55,Sports
+182,Sports,Punjab Athletics Stadium,Sports
+184,Sports,Bahria Golf and Country Club,Sports
+185,Sports,Royal Palm Golf and Country Club,Sports
+188,Sports,Green Fields Country Club,Sports
+193,Sports,Fame Football Club,Sports
+215,Art & Calligraphy,Ali Auditorium,Art & Calligraphy
+222,Literature,Punjab Public Library,Literature|Reading
+223,Literature,Dyal Singh Trust Library,Literature|Reading
+225,Literature,Defence Public Library,Literature|Reading
+227,Literature,Children Library Complex,Literature
+228,Fitness,AimFit Lahore,Fitness
+241,Fitness,Structure Health & Fitness Gulberg Lahore,Fitness
+247,Fitness,"Bodytalk Gym Lahore,",Fitness
+248,Fitness,Times Fitness,Fitness
+249,Fitness,Fitness Zone,Fitness
+260,Reading novels,Maadr-e-Millat Library,Literature
+267,Gardening,Gulshan Iqbal Park,Gardening
+288,Literature,UET Library,Literature
+301,Being Spiritual ( Religious),Shrine of Madhu Lal Hussain,Being Spiritual ( Religious)| History Lover
+302,Being Spiritual ( Religious),Bibi Pak Daman Shrine,Being Spiritual ( Religious)| History Lover
+303,Being Spiritual ( Religious),Sacred Heart Cathedral,Being Spiritual ( Religious)| History Lover
+304,Being Spiritual ( Religious),St. Andrew’s Church,Being Spiritual ( Religious)| History Lover
+305,Being Spiritual ( Religious),Krishna Mandir,Being Spiritual ( Religious)
+306,Being Spiritual ( Religious),Valmiki Mandir,Being Spiritual ( Religious)
+307,Being Spiritual ( Religious),Bhairav ka Asthan,Being Spiritual ( Religious)| History Lover
+308,Being Spiritual ( Religious),Rattan Chand Temple,Being Spiritual ( Religious)| History Lover
+309,Being Spiritual ( Religious),Gurdwara Dera Sahib,Being Spiritual ( Religious)| History Lover
+310,Being Spiritual ( Religious),Gurdwara Janam Asthan Guru Ram Das,Being Spiritual ( Religious)| History Lover
+311,Being Spiritual ( Religious),Gurdwara Shahid Ganj Singh Singhania,Being Spiritual ( Religious)| History Lover
+312,Being Spiritual ( Religious),Shaheed Ganj Bhai Taru Singh,Being Spiritual ( Religious)| History Lover
+320,History Lover,"Lahore Meusem, Army Museum",History Lover
+321,Music,GUITAR WORLD,Shopping|Music
+343,Literature,"Ferozsons, Liberty Books",Shopping|Literature|Reading
+359,Writing,Internet cafes,Shopping|Literature|Reading
+376,Shopping,The Arena,Shopping|Acting & Movies
+391,Literature,Ferozsons,Shopping|Literature|Reading
+403,History Lover,Shakir Ali Museum,History Lover
+406,Gardening,Lawrence Garden,Gardening
+466,Animal Lover,Pet sheds,Animal Lover
+470,Shopping,Naqsh Art Gallery ,Art & Calligraphy
+482,Being Spiritual ( Religious),Grand Jamia Masjid,Being Spiritual ( Religious)
